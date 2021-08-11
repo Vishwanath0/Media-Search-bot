@@ -24,9 +24,9 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 # Messages
 START_MSG = """
 **Hi, I'm Media Search bot**
-
+Work for <b> @uniquemoviezchannel </b>
 Here you can search files in inline mode. Just press follwing buttons and start searching.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'Please join @.... to use this bot'
+INVITE_MSG = 'Please join @uniquemoviezchannel to use this bot'
